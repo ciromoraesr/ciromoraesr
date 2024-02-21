@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast, expl
 * ![Git](https://img.shields.io/badge/Git-008000?style=for-the-badge&logo=git)
 
 ## Contact
-* !.[LinkedIn](https://img.shields.io/badge/LinkedIn-008000?style=for-the-badge&logo=linkedin&logoColor=white].(https://www.linkedin.com/in/ciromoraesr/)<br>
-* !.[Gmail](https://img.shields.io/badge/Gmail-008000?style=for-the-badge&logo=gmail&logoColor=red].(mailto:ciromoraes.r@gmail.com)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-008000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciromoraesr/)<br>
+* [![Gmail](https://img.shields.io/badge/Gmail-008000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ciromoraes.r@gmail.com)
 
 
 
