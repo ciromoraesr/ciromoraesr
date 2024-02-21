@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast, expl
 * ![C](https://img.shields.io/badge/C-008000?style=for-the-badge&logo=c)
 * ![Python](https://img.shields.io/badge/Python-008000?style=for-the-badge&logo=python)
 * ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-008000?style=for-the-badge&logo=postgresql&logoColor=white)
-
+* ![Git](https://img.shields.io/badge/Git-008000?style=for-the-badge&logo=git)
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-008000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciromoraesr/)<br>
