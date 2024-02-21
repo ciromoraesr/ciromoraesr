@@ -1,23 +1,28 @@
 # Greetings, I'm Ciro Moraes.
 
-Welcome to my GitHub profile. I am a dedicated Computer Science enthusiast, deeply engaged in the exploration and mastery of various technical disciplines. My current focus revolves around:
+Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast, exploring and mastering various technical disciplines. My current focus includes:
 
 - **Data Science**
 - **Backend Development**
 - **Machine Learning**
 - **Mathematics**
 
-🌱 Currently, my learning journey is centered on refining my proficiency in Python, C, and SQL.
+## Skills
+* ![C](https://img.shields.io/badge/C-008000?style=for-the-badge&logo=c)
+* ![Python](https://img.shields.io/badge/Python-008000?style=for-the-badge&logo=python)
+* ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-008000?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Current Pursuits:
 
-- 📚 Actively advancing my skills in Python, C, and SQL to strengthen my programming foundation.
-- 💡 Delving into the complexities of Data Science, Backend Development, Machine Learning, and Mathematics.
-- 🤝 Open to collaboration on projects that offer substantial learning experiences.
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-008000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciromoraesr/)<br>
+[![Gmail](https://img.shields.io/badge/Gmail-008000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ciromoraes.r@gmail.com)
 
-## Get in Touch:
+## Git Stats
 
-- 📧 For professional inquiries, kindly reach out via email: ciromoraes.r@gmail.com
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ciromoraesr/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ciromoraesr&theme=calm&bg_color=191970&border_color=4682B4&show_icons=true&icon_color=87CEEB&title_color=F1FAEE&text_color=F1FAEE)
 
-I am eager to contribute meaningfully to the GitHub community and explore new dimensions in the ever-evolving landscape of technology. 🚀
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ciromoraesr&layout=compact&theme=calm&bg_color=191970&border_color=4682B4&show_icons=true&icon_color=87CEEB&title_color=F1FAEE&text_color=F1FAEE)
+
+## Projects 
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ciromoraesr&repo=ProjetoAnaliseAcidentes&theme=calm&bg_color=191970&border_color=4682B4&show_icons=true&icon_color=87CEEB&title_color=F1FAEE&text_color=F1FAEE)](https://github.com/ciromoraesr/ProjetoAnaliseAcidentes)
