@@ -26,9 +26,11 @@ Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast, expl
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ciromoraesr&layout=compact&theme=calm&bg_color=191970&border_color=4682B4&show_icons=true&icon_color=87CEEB&title_color=F1FAEE&text_color=F1FAEE)
 
 ## Projects 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ciromoraesr&repo=CoinsProject&theme=calm&bg_color=191970&border_color=4682B4&show_icons=true&icon_color=87CEEB&title_color=F1FAEE&text_color=F1FAEE)](https://github.com/ciromoraesr/CoinsProject)
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ciromoraesr&repo=CoinsProject&theme=calm&bg_color=191970&border_color=4682B4&show_icons=true&icon_color=87CEEB&title_color=F1FAEE&text_color=F1FAEE)]
+(https://github.com/ciromoraesr/CoinsProject)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ciromoraesr&repo=ProjetoAnaliseAcidentes&theme=calm&bg_color=191970&border_color=4682B4&show_icons=true&icon_color=87CEEB&title_color=F1FAEE&text_color=F1FAEE)](https://github.com/ciromoraesr/ProjetoAnaliseAcidentes)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ciromoraesr&repo=projeto1PC1&theme=calm&bg_color=191970&border_color=4682B4&show_icons=true&icon_color=87CEEB&title_color=F1FAEE&text_color=F1FAEE)](https://github.com/ciromoraesr/projeto1PC1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ciromoraesr&repo=Projeto2PC1&theme=calm&bg_color=191970&border_color=4682B4&show_icons=true&icon_color=87CEEB&title_color=F1FAEE&text_color=F1FAEE)](https://github.com/ciromoraesr/Projeto2PC1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ciromoraesr&repo=projeto1PC1&theme=calm&bg_color=191970&border_color=4682B4&show_icons=true&icon_color=87CEEB&title_color=F1FAEE&text_color=F1FAEE)]
+(https://github.com/ciromoraesr/projeto1PC1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ciromoraesr&repo=Projeto2PC1&theme=calm&bg_color=191970&border_color=4682B4&show_icons=true&icon_color=87CEEB&title_color=F1FAEE&text_color=F1FAEE)]
+(https://github.com/ciromoraesr/Projeto2PC1)
 
