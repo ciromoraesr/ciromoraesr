@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast, exploring and mastering various technical disciplines. My current focus includes:
 
 - **Data Science**
-- **Backend Development**
+- **FullStack Development**
 - **Machine Learning**
 - **Mathematics**
 
