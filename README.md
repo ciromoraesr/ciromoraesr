@@ -10,7 +10,14 @@ Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast, expl
 ## Skills
 * ![C](https://img.shields.io/badge/C-008000?style=for-the-badge&logo=c)
 * ![Python](https://img.shields.io/badge/Python-008000?style=for-the-badge&logo=python)
+* ![Django](https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=django)
+* ![React](https://img.shields.io/badge/React-008000?style=for-the-badge&logo=react)
+* ![JavaScript](https://img.shields.io/badge/JavaScript-008000?style=for-the-badge&logo=javascript)
+* ![Java](https://img.shields.io/badge/Java-008000?style=for-the-badge&logo=java)
 * ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-008000?style=for-the-badge&logo=postgresql&logoColor=white)
+* ![MySQL](https://img.shields.io/badge/MySQL-008000?style=for-the-badge&logo=mysql)
+* ![MongoDB](https://img.shields.io/badge/MongoDB-008000?style=for-the-badge&logo=mongodb)
+* ![PyTorch](https://img.shields.io/badge/PyTorch-008000?style=for-the-badge&logo=pytorch)
 * ![Git](https://img.shields.io/badge/Git-008000?style=for-the-badge&logo=git)
 
 ## Contact
