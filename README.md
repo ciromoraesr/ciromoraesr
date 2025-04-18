@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast, expl
 
 ## Projects
 
-Below are some highlighted projects. Click on the cards to check out the repositories:
+### Below are some highlighted projects. Click on the cards to check out the repositories:
 
 <table align="center">
   <tr>
